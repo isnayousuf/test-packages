@@ -1,0 +1,14 @@
+{
+  "name": "learn-counter",
+  "version": "1.0.1",
+  "description": "This is a counter in JavaScript",
+  "main": "counter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "empty"
+  ],
+  "author": "Isna",
+  "license": "MIT"
+}
