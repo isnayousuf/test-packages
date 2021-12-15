@@ -1,14 +1,19 @@
 {
-  "name": "learn-counter",
-  "version": "1.0.1",
-  "description": "This is a counter in JavaScript",
-  "main": "counter.js",
+  "name": "l-counter",
+  "version": "1.1.2",
+  "description": "this is a test package",
+  "main": "count.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "empty"
-  ],
-  "author": "Isna",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isnayousuf/test-packages.git"
+  },
+  "author": "isnayousuf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isnayousuf/test-packages/issues"
+  },
+  "homepage": "https://github.com/isnayousuf/test-packages#readme"
 }
